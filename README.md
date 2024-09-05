@@ -1,4 +1,4 @@
-# Pemrograman Mobile
+# Repository Praktikum Pemrograman Mobile 2024
 <table>
 <tr>
     <th>Nama</th>
@@ -11,9 +11,5 @@
 <tr>
     <th>Kelas</th>
     <td>TI 3G</td>
-</tr>
-<tr>
-    <th>Absen</th>
-    <td>26</td>
 </tr>
 </table>
