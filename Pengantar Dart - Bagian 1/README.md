@@ -1,4 +1,4 @@
-# Tugas Praktikum
+# Laporan Praktikum
 <table>
 <tr>
     <th>Nama</th>
